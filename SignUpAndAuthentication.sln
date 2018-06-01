@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignUpAndAuthentication", "GenesisAutomation\SignUpAndAuthentication.csproj", "{5DFB0923-4C85-4535-8952-D7EE2E14C570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignUpAndAuthentication.Tests", "GenesisAutomation.Tests\SignUpAndAuthentication.Tests.csproj", "{A31AAF66-9511-4263-BB15-BDD349E30258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DFB0923-4C85-4535-8952-D7EE2E14C570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFB0923-4C85-4535-8952-D7EE2E14C570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFB0923-4C85-4535-8952-D7EE2E14C570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFB0923-4C85-4535-8952-D7EE2E14C570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A31AAF66-9511-4263-BB15-BDD349E30258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31AAF66-9511-4263-BB15-BDD349E30258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31AAF66-9511-4263-BB15-BDD349E30258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31AAF66-9511-4263-BB15-BDD349E30258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
