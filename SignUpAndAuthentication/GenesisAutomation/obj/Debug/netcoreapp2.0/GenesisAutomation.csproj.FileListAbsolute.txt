@@ -1,0 +1,11 @@
+/Users/yvonnetwomey/Projects/GenesisAutomation/GenesisAutomation/GenesisAutomation/bin/Debug/netcoreapp2.0/GenesisAutomation.deps.json
+/Users/yvonnetwomey/Projects/GenesisAutomation/GenesisAutomation/GenesisAutomation/bin/Debug/netcoreapp2.0/GenesisAutomation.runtimeconfig.json
+/Users/yvonnetwomey/Projects/GenesisAutomation/GenesisAutomation/GenesisAutomation/bin/Debug/netcoreapp2.0/GenesisAutomation.runtimeconfig.dev.json
+/Users/yvonnetwomey/Projects/GenesisAutomation/GenesisAutomation/GenesisAutomation/bin/Debug/netcoreapp2.0/GenesisAutomation.dll
+/Users/yvonnetwomey/Projects/GenesisAutomation/GenesisAutomation/GenesisAutomation/bin/Debug/netcoreapp2.0/GenesisAutomation.pdb
+/Users/yvonnetwomey/Projects/GenesisAutomation/GenesisAutomation/GenesisAutomation/obj/Debug/netcoreapp2.0/GenesisAutomation.csproj.CoreCompileInputs.cache
+/Users/yvonnetwomey/Projects/GenesisAutomation/GenesisAutomation/GenesisAutomation/obj/Debug/netcoreapp2.0/GenesisAutomation.AssemblyInfoInputs.cache
+/Users/yvonnetwomey/Projects/GenesisAutomation/GenesisAutomation/GenesisAutomation/obj/Debug/netcoreapp2.0/GenesisAutomation.AssemblyInfo.cs
+/Users/yvonnetwomey/Projects/GenesisAutomation/GenesisAutomation/GenesisAutomation/obj/Debug/netcoreapp2.0/GenesisAutomation.dll
+/Users/yvonnetwomey/Projects/GenesisAutomation/GenesisAutomation/GenesisAutomation/obj/Debug/netcoreapp2.0/GenesisAutomation.pdb
+/Users/yvonnetwomey/Projects/GenesisAutomation/GenesisAutomation/GenesisAutomation/obj/Debug/netcoreapp2.0/GenesisAutomation.csprojResolveAssemblyReference.cache
