@@ -1,0 +1,2 @@
+04/26/2018 22:12:56 : Info : In Sign Up Controller
+04/26/2018 22:12:57 : Info : Sign Up Contoller Timer took: 497
