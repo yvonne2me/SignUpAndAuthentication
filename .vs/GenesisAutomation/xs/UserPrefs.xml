@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{5DFB0923-4C85-4535-8952-D7EE2E14C570}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="GenesisAutomation" expanded="True">
+            <Node name="GenesisAutomation.Tests" expanded="True">
+              <Node name="GenesisAutomation" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="ControllerTests" expanded="True" />
+                  <Node name="RepositoryTests" expanded="True">
+                    <Node name="UserRepositoryTests" expanded="True" />
+                  </Node>
+                  <Node name="ServiceTests" expanded="True">
+                    <Node name="SearchServiceTests" expanded="True">
+                      <Node name="Test_GetUser_By_Id_Success" selected="True" />
+                    </Node>
+                    <Node name="TokenServiceTests" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/yvonnetwomey/Projects/GenesisAutomation/GenesisAutomation/GenesisAutomation.Tests/RepositoryTests/UserRepositoryTests.cs" relfile="GenesisAutomation.Tests/RepositoryTests/UserRepositoryTests.cs" line="73" column="1" />
+      <Breakpoint file="/Users/yvonnetwomey/Projects/GenesisAutomation/GenesisAutomation/GenesisAutomation/Services/SearchService.cs" relfile="GenesisAutomation/Services/SearchService.cs" line="26" column="49" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GenesisAutomation PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
